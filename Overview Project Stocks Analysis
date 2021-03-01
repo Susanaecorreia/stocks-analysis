@@ -1,0 +1,44 @@
+# ** Project Overview **
+
+
+##1. Overview of Project: Explain the purpose of this analysis.
+
+#### Steve's parents want to invest in Green Energy Stocks, and they have chosen the DAQO Stock. 
+The purpose of this project is to help Steve's parents analyse other Greens Stocks in addition
+to DAQO Stock, so they can invest based on real data.
+
+
+##2.1 Results: Using images and examples of your code, compare the stock performance between 
+2017 and 2018: 
+
+#### The best way to analyse the Green Stocks is to combine both years, 2017 and 2018, to have
+a better view of the return along time. The more data we have, the better. In this case we only
+have data from two years. The graph below shows the average return for different Green Energy 
+Stocks from years 2017 and 2018. ENPH shows the best return with 106%, following by SEDG with
+88%. DQ comes in third place with 68% return.
+
+![Getting Started](StocksvsAverageReturn.png)
+
+##2.2 Results: The execution times of the original script and the refactored script.
+
+#### The refactored script executes in a faster time. It does not have to execute different
+Macros, this way it runs more effectivaly, and the script is cleaner. 
+
+![Getting Started](VBA_Challenge_2017.png)
+![Getting Started](VBA_Challenge_2018.png)
+
+##3. Summary: In a summary statement, address the following questions:
+
+    ###3.1. What are the advantages or disadvantages of refactoring code?
+
+    #### Advantages: Refactoring is improving desing, it is a way to optimize existing code 
+    without changing its behavior. It also makes the script easier to understand or read,
+    it is less complex and it is easier to maintain.
+
+    #### Disadvantages: It is time consuming.
+
+    ###3.2. How do these pros and cons apply to refactoring the original VBA script?
+
+    #### I could say it was a bit easier because we had the starter code ready for us to
+    fill in. Therefore we have all the pros that a refactoring can give us and was not 
+    that bad in terms of time consuming.
